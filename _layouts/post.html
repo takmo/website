@@ -1,0 +1,7 @@
+{% include header.html %}
+<h1>{{ page.title }}</h1>
+<span class="italics">{{ page.date | date: "%A, %B %d, %Y" }}</span>
+{{ content }}
+<span class="italics">Have something to say? Tweet me!
+<a href="https://twitter.com/imtakmo">@ImTakmo</a></span>
+{% include footer.html %}

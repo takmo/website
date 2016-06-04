@@ -1,0 +1,7 @@
+name: BitwiseHero
+markdown: redcarpet
+highlighter: rouge
+safe: true
+exclude: ["update"]
+timezone: America/Chicago
+url: http://bitwisehero.com/bh
