@@ -6,12 +6,9 @@ title: Home
 ## Howdy, friend.
 
 My name is Randall. I am a 20 year old student from a small town in Texas. A
-sinner saved by grace. I currently reside in the Seattle area and work as a
-Software Developer Intern for Microsoft.
-
-During the academic year, I am a full-time student at Texas A&M University
-in College Station, Texas, where I am majoring in Computer Science and
-minoring in Music.
+sinner saved by grace. I currently reside in College Station, Texas, where I
+work as a Software Developer and pursue my studies in both Computer Science
+and Music at Texas A&M University.
 
 Professional interest areas: distributed computing, web-scale systems,
 human-computer interaction, educational games, interactive/responsive media,
@@ -29,18 +26,22 @@ is licensed openly, so you can build on something if you want.
 
 ## I take pride in my work.
 
-Today I work as a Software Developer Intern at Microsoft, helping to develop
-enterprise business solution platforms in [#TheCloud]
+Today, I work as a Software Developer on a local team, building test automation
+systems for our web applications and safeguarding software quality for our
+customers.
+
+Throughout the summer, I worked as a Software Developer Intern at Microsoft,
+helping to develop enterprise business solution platforms in [#TheCloud]
 (https://azure.microsoft.com).
 
 Last summer I worked as a Software Developer Intern at [Epoch Labs]
 (http://epochlabs.com), contributing to a high-performance distributed
 NoSQL database with a whimsical love of [boats](https://raft.github.io/).
 
-For the last four semesters, I have worked as a Student Technician
-for the Engineering IT group at Texas A&M University, where I interact daily
+Before my current employment, I worked four semesters as a Student Technician
+for the Engineering IT group at Texas A&M University, where I interacted daily
 with students, staff, and faculty to resolve technical mishaps and maintain
-equipment.
+equipment and services.
 
 ## Sometimes, I write things.
 
