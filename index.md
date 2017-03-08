@@ -5,7 +5,7 @@ title: Home
 
 ## Howdy, friend.
 
-My name is Randall. I am a 20 year old student from a small town in Texas. A
+My name is Randall. I am a 21 year old student from a small town in Texas. A
 sinner saved by grace. I currently reside in College Station, Texas, where I
 work as a Software Developer and pursue my studies in both Computer Science
 and Music at Texas A&M University.
