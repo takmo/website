@@ -26,15 +26,21 @@ is licensed openly, so you can build on something if you want.
 
 ## I take pride in my work.
 
-Today, I work as a Software Developer on a local team, building test automation
-systems for our web applications and safeguarding software quality for our
-customers.
+This summer's adventure has been with Facebook Seattle, where I was employed
+as a Production Engineer Intern developing a pipeline diagnostics tool,
+broadening existing logging facilities, and learning as much as I could about
+how Facebook reliably serves over 2-billion monthly active users.
 
-Throughout the summer, I worked as a Software Developer Intern at Microsoft,
-helping to develop enterprise business solution platforms in [#TheCloud]
-(https://azure.microsoft.com).
+During the 2016-2017 academic year, I worked as a Test Automation Developer
+for a local web-service company, building test automation systems for our web
+applications, standardizing our testing infrastructure, and safeguarding
+software quality for our customers. I will resume my role here in September.
 
-Last summer I worked as a Software Developer Intern at [Epoch Labs]
+Throughout the Summer of 2016, I worked as a Software Developer Intern at
+Microsoft, helping to develop enterprise business solution platforms in
+[#TheCloud](https://azure.microsoft.com).
+
+During Summer of 2015 I worked as a Software Developer Intern at [Epoch Labs]
 (http://epochlabs.com), contributing to a high-performance distributed
 NoSQL database with a whimsical love of [boats](https://raft.github.io/).
 
