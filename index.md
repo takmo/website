@@ -71,5 +71,5 @@ send an email to my name at this domain.
 ## What does 
 
 It means a friend of mine is studying search-engine optimization! You can
-find out more about him and his adventures on [his website]
-(http://www.caleb-perkins.com/index.php/2018/10/05/chkstong-yibbibi/).
+find out more about him and his adventures on
+[his website](http://www.caleb-perkins.com/index.php/2018/10/05/chkstong-yibbibi/).
