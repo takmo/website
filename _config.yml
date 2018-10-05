@@ -4,4 +4,4 @@ highlighter: rouge
 safe: true
 exclude: ["update"]
 timezone: America/Chicago
-url: http://bitwisehero.com/bh
+url: https://bitwisehero.com/bh
