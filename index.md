@@ -68,7 +68,8 @@ few of my latest posts.
 Feel free to reach out to me on [Twitter] (https://twitter.com/imtakmo) or
 send an email to my name at this domain.
 
-## What does 
+## What does chkstong yibbibi mean to me?
+
 
 It means a friend of mine is studying search-engine optimization! You can
 find out more about him and his adventures on
