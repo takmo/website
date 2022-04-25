@@ -1,0 +1,32 @@
+---
+title: The Bitwise Hero
+---
+<!doctype html>
+<html>
+<head>
+    <title>{{ title }} - The Bitwise Hero</title>
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet"> 
+</head>
+<body class="text-slate-700">
+    <header class="flex p-8">
+        <span class="text-2xl grow text-center text-slate-600 hover:text-blue-900">
+            <a href="/index.html">∼ The Bitwise Hero ∽</a>
+        </span>
+    </header>
+    <main class="p-3">
+        <article class="prose prose-quoteless prose-slate prose-headings:text-slate-600 mx-auto max-w-2xl">
+            {{ content | safe }}
+        </article>
+    </main>
+    <footer class="flex p-3">
+        <span class="grow text-center text-xs">
+            Licensed by author under
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+            unless noted otherwise.
+        </span>
+    </footer>
+</body>
+</html>

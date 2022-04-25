@@ -1,0 +1,66 @@
+---
+layout: default
+title: Home
+---
+
+<h1>Hi there, I'm Randall Dolifka.</h1>
+
+<p>
+I am a backend software developer who lives in Texas with my wife Kyra, our cat
+Missy, and our bearded dragon Pip. I graduated from Texas A&M University in 2018
+with a degree in computer science and a minor in music. When I'm not occupied
+with work, I enjoy barbeque smoking, rough woodworking, and video games. One
+day I hope to start my own business, but for now, I am happy to be making
+quality software with great friends.
+</p>
+
+<p>
+Not a hero yet, but I'll keep practicing... 🙂
+</p>
+
+<p>
+<a href="https://github.com/Takmo">GitHub</a>
+|
+<a href="https://linkedin.com/in/randall-dolifka">LinkedIn</a>
+|
+<a href="https://reddit.com/user/ImTakmo">Reddit</a>
+|
+<a href="https://soundcloud.com/ImTakmo">SoundCloud</a>
+|
+<a href="https://twitter.com/ImTakmo">Twitter</a>
+</p>
+
+<h2>I write things sometimes.</h2>
+
+<p>
+This website contains an assortment of my blog posts, articles, opinions, and
+creations. I can't promise that any of it is good, but it's all written by me.
+</p>
+
+<h3>Essays</h3>
+
+<ul>
+{%- for essay in collections.essay | reverse -%}
+    <li>
+        <a href="{{essay.url}}">{{essay.data.title}}</a>
+    </li>
+{%- endfor -%}
+</ul>
+
+<h3>Posts</h3>
+
+<ul>
+{%- for post in collections.post | reverse -%}
+    <li>
+        <a href="{{post.url}}">{{post.data.title}}</a>
+    </li>
+{%- endfor -%}
+</ul>
+
+<h2>Feel free to get in touch.</h2>
+
+<p>
+Honestly, I've reached the boring part of my life where email is probably the
+best way to contact me. Freel free to send an email to
+<em>first name</em> at <em>this domain</em>.
+</p>

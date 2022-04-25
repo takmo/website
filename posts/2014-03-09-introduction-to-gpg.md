@@ -1,7 +1,10 @@
 ---
+layout: content
+tags: post
 title: An Introduction To GPG
-layout: post
 ---
+
+# An Introduction To GPG
 
 Recently, I developed an interest in email encryption and began investigating
 the technologies needed to use it. I soon found myself looking at GPG, wondering
@@ -235,4 +238,3 @@ signing key in the event that it is compromised.
 
 I suppose this about wraps everything up. As you can see, GPG is a very useful
 technology. I hope that this post makes it easier to understand.
-

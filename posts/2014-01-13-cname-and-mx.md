@@ -1,12 +1,15 @@
 ---
-layout: post
+layout: content
+tags: post
 title: "TIL: Never Mix CNAME and MX Records"
 ---
+
+# TIL: Never Mix CNAME and MX Records
 
 ...Or CNAME and any records for that matter.
 
 Today I learned that my (unused) email system has
-been disfunctional for the last few weeks  because of
+been dysfunctional for the last few weeks  because of
 a DNS issue.
 
 Here was an excerpt from my DNS records, prior to today:
@@ -19,7 +22,7 @@ to my webserver, fang.bitwisehero.com, and all mail goes to
 my mail server, mail.bitwisehero.com. At first glance, it
 looks fine.
 
-Unfortunately, the setup was bugged. Outoing mail worked fine,
+Unfortunately, the setup was bugged. Outgoing mail worked fine,
 but not a single nameserver would return the correct MX record.
 
 Evidently, I had neglected an
