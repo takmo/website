@@ -10,7 +10,7 @@ This is my static website. I basically just post whatever I want here.
 
 * Uses [CloudFlare Pages](https://pages.cloudflare.com) for web hosting
 * Uses [Eleventy](https://11ty.dev) for static site generation
-* Uses [TailwindCSS](https://tailwindcss.com) for CSS
+* Uses [water.css](https://watercss.kognise.dev/) for CSS
 
 ## License
 
